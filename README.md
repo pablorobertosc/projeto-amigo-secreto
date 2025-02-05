@@ -12,5 +12,5 @@
 
 # Projeto
 
-| ![Projeto](C:\Users\pablo\OneDrive\Área de Trabalho\Alura_Next_ONe\challenge-amigo-secreto_pt-main\dasafio_amigo_secreto.JPG) | 
+![Projeto](C:\Users\pablo\OneDrive\Área de Trabalho\dasafio_amigo_secreto.JPG) 
 | :---: | :---: |
